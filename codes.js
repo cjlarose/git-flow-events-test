@@ -1,1 +1,1 @@
-console.log('make the codes');
+console.log('make the codes better');
